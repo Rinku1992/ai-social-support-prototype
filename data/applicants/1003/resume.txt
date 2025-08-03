@@ -1,0 +1,12 @@
+CV for Cynthia Roberson
+
+Contact: raymondrachel@example.com
+
+Experience:
+- Special effects artist at Morgan, Oconnor and Carroll (5 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

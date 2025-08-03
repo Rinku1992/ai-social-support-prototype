@@ -1,0 +1,12 @@
+CV for Sean Faulkner
+
+Contact: brandonjoseph@example.net
+
+Experience:
+- Network engineer at Mcdonald, Mitchell and Miller (18 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

@@ -1,0 +1,12 @@
+CV for Karen Young
+
+Contact: michellewilliams@example.com
+
+Experience:
+- Child psychotherapist at Williams LLC (1 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

@@ -1,0 +1,12 @@
+CV for Lisa Hall
+
+Contact: douglasrandolph@example.org
+
+Experience:
+- Food technologist at Adams, Simmons and Jacobs (14 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

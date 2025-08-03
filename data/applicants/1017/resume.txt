@@ -1,0 +1,12 @@
+CV for Garrett Serrano
+
+Contact: eatonandrew@example.com
+
+Experience:
+- Immigration officer at Smith, Nunez and Williams (8 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

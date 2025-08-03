@@ -1,0 +1,51 @@
+applicant_id,name,age,monthly_income,family_size,employment_years,address_form,eligibility_status
+1000,Kimberly Mcintosh,42,9240,4,7,"7636 Jennifer Canyon, Johnborough, GA 89598",Decline
+1001,Mr. Dennis Bean,44,4013,2,17,"79046 Heather Locks Apt. 163, Lake Lisa, AZ 34200",Approve
+1002,Lucas Simpson,28,3118,5,5,"3289 Love Circles Suite 333, Traceyton, AL 03805",Approve
+1003,Alfred Owens,40,2191,2,5,"99242 Robert Port, Sarachester, NE 15153",Decline
+1004,Kevin Brown,42,7824,3,2,"97727 Bridget Wells, South Heatherland, DE 59877",Decline
+1005,Sharon Smith,54,6051,2,14,"39901 Douglas Locks, Lake Bryanstad, MD 94026",Decline
+1006,Robyn Henderson,30,8405,6,13,"6722 Herrera Ports, Anthonytown, GA 92520",Decline
+1007,Shannon Jones,26,7332,3,13,"599 Alexander Key, Mccarthyshire, AR 44551",Decline
+1008,Eric Cooper,36,3881,3,17,"6766 Rodriguez Neck, South Rachel, PR 60877",Decline
+1009,Jared Hernandez,35,10660,4,5,"8794 Ronald Roads Apt. 701, Trevorhaven, MS 23016",Decline
+1010,Melanie Henderson,32,4240,5,12,"40549 Angela Estates Suite 221, Port Danielfurt, NE 24011",Approve
+1011,Anthony Hayes,37,5292,2,6,"207 Jessica Landing, Mercerberg, AK 94192",Decline
+1012,Jacqueline Miller,51,10470,6,3,"Unit 4594 Box 3600, DPO AA 93144",Decline
+1013,Christopher Ball,55,4891,6,15,"34159 Stokes Bypass Apt. 005, Rogersville, NV 34887",Approve
+1014,Ronald Lee,56,4069,6,4,"4984 Wallace Summit Suite 804, East Jeremy, ID 92978",Approve
+1015,Angelica Jones,48,14345,4,8,"1494 Newman Grove Suite 895, South Ryanberg, MD 60632",Decline
+1016,Rachel Long,27,6356,3,8,"Unit 8147 Box 8435, DPO AE 32789",Decline
+1017,Ashley Lawrence,35,2373,3,16,"0907 Kimberly Drive Suite 752, Myersview, NJ 36975",Approve
+1018,Christian Fleming,38,5892,4,9,"PSC 4639, Box 5146, APO AA 40935",Approve
+1019,Molly Reyes,59,2921,5,10,"0762 Thomas River, West Nathan, WI 41781",Approve
+1020,Nicholas Brown,38,5287,1,2,"023 James Vista Apt. 879, Port Jeremiah, AL 26225",Decline
+1021,Devon Andrews,25,14996,4,12,"84112 Jacqueline Glens Suite 513, North Tonya, ME 44580",Decline
+1022,Pamela Mullins,53,13268,3,5,"1496 David Walk, North Lynn, NJ 67498",Decline
+1023,Nicholas Brown,54,14576,2,12,"2146 Michael Parks, Corytown, WY 65571",Decline
+1024,Teresa Hicks,56,7755,2,19,"4367 Ryan Turnpike Apt. 488, Port Nathanchester, UT 90787",Decline
+1025,Sierra Lloyd,59,11034,2,2,"6597 Yolanda Roads Suite 507, Pierceberg, PW 41988",Decline
+1026,Joseph Carpenter,36,12344,6,15,"2520 Dunn Overpass, North Rodneytown, ID 64006",Decline
+1027,Jacqueline Tyler,53,13919,1,9,"USS Collins, FPO AA 41071",Decline
+1028,Melissa Kelley,25,5979,3,5,"003 Derrick Turnpike Apt. 793, Lucasborough, IA 40206",Approve
+1029,Jordan English,40,9731,4,0,"756 Gabriel Place, South Davidville, NH 24631",Decline
+1030,Thomas Jones,57,13096,3,10,"3182 Jo Path Apt. 876, Lake Sabrina, MT 07491",Decline
+1031,Judy Ross,45,10181,6,2,"077 Harrison River Suite 343, Lake Rhonda, OR 80363",Decline
+1032,Luis Estrada,54,6077,1,3,"1413 Scott Gardens Apt. 383, Joneshaven, VI 79522",Decline
+1033,Michael Stanley,43,11589,5,0,"313 Sean Park, East Brittany, CO 02103",Decline
+1034,Jeffrey Smith,59,10467,5,14,"27959 Mccormick Meadow, New Philipberg, WI 04311",Decline
+1035,Vickie Durham,58,4409,2,3,"01572 Rivera Burg, New Dannyborough, NH 14984",Decline
+1036,Douglas Butler,26,5749,2,5,"2259 Martin Mountain, Brittanyborough, KS 81150",Decline
+1037,Steven Williams,52,13126,2,0,"6070 Gillespie Dam Suite 475, Jenniferstad, MP 79850",Decline
+1038,Walter Carlson,51,14667,2,8,"924 Tiffany Passage Apt. 682, Samanthaport, NE 02139",Decline
+1039,Ashley Rodriguez,59,11046,3,2,"81282 Patricia Island, West Casey, PR 51114",Decline
+1040,Cody Mejia,32,9020,4,2,"2165 Smith Cape Suite 909, West Jennifermouth, UT 65826",Decline
+1041,Katherine Dalton,33,6865,6,6,"8167 Reyes Hollow Suite 716, Port Jason, NE 83926",Approve
+1042,Steven Clark,59,2159,6,7,"782 Mark Junctions, Larsonton, WV 17283",Approve
+1043,Mr. Aaron Coleman,50,9436,2,3,"Unit 3384 Box 2657, DPO AP 43609",Decline
+1044,Juan Contreras,31,9755,4,16,"3742 Lewis Radial, Matthewfurt, MN 32233",Decline
+1045,Jason Dickson,33,8103,2,7,"41215 Spencer Mill Suite 497, Tonyburgh, DC 06204",Decline
+1046,Ann Shannon,33,5102,1,7,"308 Katelyn Fork Apt. 919, Wrightport, MO 18599",Decline
+1047,Alan Cisneros,32,14126,1,7,"99260 Stacy Haven Apt. 382, New Jeffbury, WA 06263",Decline
+1048,Joshua Cole,55,6934,6,14,"09531 Moore Park Suite 191, North Jimmy, PR 59237",Approve
+1049,Rhonda Thomas,51,12877,4,8,"2561 Jeffrey Parkways Apt. 724, Martinezside, MO 43604",Decline

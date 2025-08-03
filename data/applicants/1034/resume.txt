@@ -1,0 +1,12 @@
+CV for Michael Vargas
+
+Contact: barberbrandon@example.com
+
+Experience:
+- Operational researcher at Howard-Hopkins (17 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

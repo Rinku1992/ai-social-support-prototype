@@ -1,0 +1,37 @@
+# Core
+python-dotenv
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pydantic
+
+# AI & Data
+scikit-learn
+pandas
+openpyxl
+numpy
+faker
+
+# LLM & Agents
+langchain
+langgraph
+langchain_community
+langchain_openai
+ollama
+
+# Vector & Data Ingestion
+llama-index
+chromadb
+
+# Document Parsers (Added/Ensured)
+pypdf
+python-docx
+fpdf2
+
+# Image Processing & OCR
+Pillow
+pytesseract
+
+# Observability (Optional but good practice)
+langsmith

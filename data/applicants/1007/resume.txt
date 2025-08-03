@@ -1,0 +1,12 @@
+CV for Chad Mccoy
+
+Contact: amandarodriguez@example.com
+
+Experience:
+- Counsellor at Hicks Ltd (18 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

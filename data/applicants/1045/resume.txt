@@ -1,0 +1,12 @@
+CV for Kyle Lara
+
+Contact: craig37@example.net
+
+Experience:
+- Conference centre manager at Whitehead Ltd (16 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

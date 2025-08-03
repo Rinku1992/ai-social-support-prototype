@@ -1,0 +1,12 @@
+CV for Charles Morris
+
+Contact: robertsjessica@example.org
+
+Experience:
+- Human resources officer at Fitzgerald-Contreras (9 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

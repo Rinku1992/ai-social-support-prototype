@@ -1,0 +1,12 @@
+CV for Jorge Smith
+
+Contact: steve55@example.net
+
+Experience:
+- Transport planner at Garcia-White (8 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

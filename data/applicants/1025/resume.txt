@@ -1,0 +1,12 @@
+CV for Brittany Simmons
+
+Contact: vanessafrank@example.com
+
+Experience:
+- Engineer, biomedical at Weaver Ltd (7 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

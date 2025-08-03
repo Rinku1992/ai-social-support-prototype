@@ -1,0 +1,12 @@
+CV for Rebecca Anderson
+
+Contact: escott@example.org
+
+Experience:
+- Fitness centre manager at Taylor, Henry and White (11 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

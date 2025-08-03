@@ -1,0 +1,12 @@
+CV for Kristina Poole
+
+Contact: rebecca97@example.net
+
+Experience:
+- Surveyor, quantity at Kerr-May (0 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

@@ -1,0 +1,12 @@
+CV for Edward Mendez
+
+Contact: vhendricks@example.com
+
+Experience:
+- Garment/textile technologist at Dalton-Campbell (15 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

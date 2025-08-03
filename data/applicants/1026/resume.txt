@@ -1,0 +1,12 @@
+CV for Brandy Lam
+
+Contact: brucenicole@example.com
+
+Experience:
+- Production assistant, television at Baxter-Mccarthy (7 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

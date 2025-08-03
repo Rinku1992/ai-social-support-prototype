@@ -1,0 +1,12 @@
+CV for John Scott
+
+Contact: adamsricky@example.org
+
+Experience:
+- Editor, magazine features at Cole LLC (11 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

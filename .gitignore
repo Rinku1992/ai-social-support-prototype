@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and OS files
+.idea/
+.vscode/
+*.DS_Store
+
+# Temporary upload directory
+temp_uploads/
+
+# Local LLM data (if any)
+.ollama/

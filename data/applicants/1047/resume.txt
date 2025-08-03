@@ -1,0 +1,12 @@
+CV for Andrew Whitaker
+
+Contact: joanna29@example.com
+
+Experience:
+- Furniture conservator/restorer at Lewis, Holloway and Chambers (11 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

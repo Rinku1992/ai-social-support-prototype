@@ -1,0 +1,12 @@
+CV for Dawn Garcia
+
+Contact: jonathonfrazier@example.com
+
+Experience:
+- Broadcast engineer at Long-Munoz (6 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

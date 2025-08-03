@@ -1,0 +1,12 @@
+CV for Gary Moore
+
+Contact: stevenware@example.org
+
+Experience:
+- Logistics and distribution manager at Martin and Sons (19 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

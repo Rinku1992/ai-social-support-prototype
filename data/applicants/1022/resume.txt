@@ -1,0 +1,12 @@
+CV for Mark Scott
+
+Contact: billypeterson@example.com
+
+Experience:
+- Sound technician, broadcasting/film/video at Mitchell, Diaz and Boyd (7 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

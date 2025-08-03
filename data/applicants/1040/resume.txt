@@ -1,0 +1,12 @@
+CV for Calvin Harding
+
+Contact: briggszachary@example.net
+
+Experience:
+- Surveyor, insurance at Vasquez, Ramirez and Jennings (13 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

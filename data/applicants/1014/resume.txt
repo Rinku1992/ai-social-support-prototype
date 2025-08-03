@@ -1,0 +1,12 @@
+CV for Jennifer Adams
+
+Contact: ythomas@example.net
+
+Experience:
+- Nurse, learning disability at Pham, Diaz and Gould (9 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

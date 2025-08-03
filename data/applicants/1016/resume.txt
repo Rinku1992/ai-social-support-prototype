@@ -1,0 +1,12 @@
+CV for Holly Carter
+
+Contact: jessica40@example.com
+
+Experience:
+- Advice worker at Carter, Larsen and Jackson (0 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

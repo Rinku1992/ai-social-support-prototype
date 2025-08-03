@@ -1,0 +1,12 @@
+CV for Renee Stone
+
+Contact: mmorse@example.com
+
+Experience:
+- Ergonomist at Cooper, Abbott and Oconnor (15 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

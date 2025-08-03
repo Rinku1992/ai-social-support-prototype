@@ -1,0 +1,12 @@
+CV for Christina Parsons
+
+Contact: jonchapman@example.com
+
+Experience:
+- Press sub at Houston, Koch and Lewis (10 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

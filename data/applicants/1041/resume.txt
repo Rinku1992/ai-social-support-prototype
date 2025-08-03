@@ -1,0 +1,12 @@
+CV for Maria Price
+
+Contact: jennifer80@example.com
+
+Experience:
+- Education administrator at Mccormick, Richards and Allen (14 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

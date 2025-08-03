@@ -1,0 +1,12 @@
+CV for Brian Smith
+
+Contact: allisonflores@example.org
+
+Experience:
+- Biomedical engineer at Ballard Ltd (6 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

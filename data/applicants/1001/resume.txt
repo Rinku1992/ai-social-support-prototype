@@ -1,0 +1,12 @@
+CV for Taylor Sullivan
+
+Contact: ronnie70@example.net
+
+Experience:
+- Engineer, aeronautical at Wells Group (18 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis

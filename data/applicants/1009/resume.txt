@@ -1,0 +1,12 @@
+CV for Alexander Scott
+
+Contact: rebeccachapman@example.net
+
+Experience:
+- Hotel manager at Ramos LLC (7 years)
+- Previous job at another company.
+
+Skills:
+- Python
+- Project Management
+- Data Analysis
